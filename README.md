@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Rhine </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> I am a freelance software developer. My main field of interest is Game Development. But i also like developing web apps. My favourite frameworks are React, NextJS, Django, Laravel, Flask, Vue JS. For game development i mostly use Unity 3D. I like Unreal Engine but unfortunately i don't have much experience on it as i never got any real life experience since never got any unreal project job. Still i wish to develop my skill in unreal and one day work at a good game development studio. I also have extensive knowledge in Photoshopping, Illustration, and Python Programming. That's pretty much all. </p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
