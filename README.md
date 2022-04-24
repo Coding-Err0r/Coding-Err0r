@@ -82,25 +82,21 @@ Sunday       8 commits     ██████░░░░░░░░░░░�
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)&nbsp;
 ![AfterEffect](https://aleen42.github.io/badges/src/after_effects.svg)&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
+
 
 ---
 
