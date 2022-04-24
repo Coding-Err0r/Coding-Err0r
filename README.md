@@ -3,13 +3,51 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Rhine </h1>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <a href="https://www.facebook.com/ushia.rhine/" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Rhine" /></a> <a href="https://drive.google.com/file/d/18KGEU9X_gA7iDkQ-ph6kTERiptBQlkA8/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Rhine" /></a> </p>
+
 <p align="center" width="150px"> I am a freelance software developer. My main field of interest is Game Development. But i also like developing web apps. My favourite frameworks are React, NextJS, Django, Laravel, Flask, Vue JS. For game development i mostly use Unity 3D. I like Unreal Engine but unfortunately i don't have much experience on it as i never got any real life experience since never got any unreal project job. Still i wish to develop my skill in unreal and one day work at a good game development studio. I also have extensive knowledge in Photoshopping, Illustration, and Python Programming. That's pretty much all. </p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+- 📫 How to reach me: coding.errorr@gmail.com
+- ⚡ Fun fact: I am an IDIOT😀😅
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rhineul-islam-737200180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rhine" /></a>
+<a href="mailto:coding.errorr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rhine" /></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    5 commits     ██████████████████░░░░░░░   60.17% 
+🌆 Daytime    1  commits    ██████████████░░░░░░░░░░░   29.97% 
+🌃 Evening    7  commits    ████░░░░░░░░░░░░░░░░░░░░░   11.41% 
+🌙 Night      3 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   5.45%
+
+```
+**I'm Most Productive on Sunday** 📅 
+
+```text
+Monday       7 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Tuesday      2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Wednesday    5 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Thursday     2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Friday       2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Saturday     8 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Sunday       8 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,16 +85,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-### :link: &nbsp;Connect with me
 
-<p align="center">
-<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
 
 ---
 
